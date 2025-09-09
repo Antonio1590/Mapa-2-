@@ -1,0 +1,23 @@
+# Modalidades
+
+| Modalidad de Trabajo |
+|---------------------|
+| Oficina             |
+| Campo               |
+| Teletrabajo        |
+| Planta química      |
+
+# Riesgos GTC 45 por Modalidad
+
+| Modalidad | Peligro físico | Peligro químico | Peligro biológico | Peligro ergonómico | Peligro psicosocial | Peligro mecánico | Peligro eléctrico | Otros |
+|-----------|----------------|-----------------|-------------------|--------------------|---------------------|------------------|-------------------|-------|
+| Oficina   | X              | X               |                   |                    |                     |                  |                   |       |
+| Campo     | X              |                   |                   | X                  |                     |                  |                   |       |
+| Teletrabajo|              |                   |                   |                    | X                   |                  |                   |       |
+| Planta química|           | X               |                   |                    |                     |                  |                   |       |
+
+# Matriz de Peligros
+
+| Modalidad de Trabajo | Peligro físico | Peligro químico | Peligro biológico | Peligro ergonómico | Peligro psicosocial | Peligro mecánico | Peligro eléctrico | Otros | Observaciones |
+|---------------------|----------------|-----------------|-------------------|--------------------|---------------------|------------------|-------------------|-------|---------------|
+|                     |                |                 |                   |                    |                     |                  |                   |       |               |
